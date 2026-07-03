@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Applied Computer Science student at FTIMS, Lodz University of Technology (6th semester) - Infrastructure and web applications specialization<br>Test Engineer at Commerzbank<br><br>📍 Based in Łódź (Poland)</p>
+<p align="left">Applied Computer Science student at FTIMS, Lodz University of Technology (6th semester) - Infrastructure and web applications specialization (IAS)<br>Test Engineer at Commerzbank<br><br>📍 Based in Łódź (Poland)</p>
 
 ###
 
